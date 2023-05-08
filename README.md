@@ -1,5 +1,4 @@
 # Automatic Speech Recognition, Entity and Intent classification and Text Summarization
-# Dimensionless Internship Task
 
 ## Automatic Speech Recognition(ASR) using SpeechRecognition (Task-1)
 API Used: Google API(recognize_google())
